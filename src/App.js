@@ -1,5 +1,4 @@
 import Footer from "./components/Footer"
-import Nav from "./components/Nav";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Main from "./pages/Main";
@@ -23,7 +22,6 @@ function App() {
   }
   return (
     <>
-      <Nav />
       {display()}
       <Footer />
     </>
