@@ -1,5 +1,3 @@
-import { divide } from "lodash";
-
 /* eslint-disable jsx-a11y/anchor-is-valid */
 function Nav() {
   return(
