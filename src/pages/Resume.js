@@ -6,7 +6,7 @@ function Resume() {
   return (
     <>
       <Nav />
-      <div>
+      <div className="container-fluid d-flex justify-content-center">
         <Document
         file={ResumePDF}
         options={{ workerSrc: "/pdf.worker.js" }}
