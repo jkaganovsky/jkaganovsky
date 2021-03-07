@@ -1,13 +1,16 @@
+import Nav from "../components/Nav";
+
 function About() {
   return(
     <>
-      <div className="container p-5">
+    <Nav />
+      <div className="container-fluid p-5">
         <div className="row m-1">
-          <div className="col s3">
-            <img className="self-portrait ratio img-responsive img-circle" src="/assets/images/selfportrait.jpg" alt="Self Portrait" />
+          <div className="col-sm">
+            <img className="self-portrait img-thumbnail rounded-circle" src="/assets/images/selfportrait.jpg" alt="Self Portrait" />
           </div>
 
-          <div className="title-desc col s9 d-flex flex-wrap bg-white p-5">
+          <div className="title-desc col d-flex flex-wrap bg-white p-5">
 
             <h1 className="title text-center fs-1">Research Coordinator & Full-Stack Web Developer</h1>
 
