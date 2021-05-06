@@ -1,9 +1,9 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 # Jailanie Kaganovsky's Portfolio
 ## Description
-Here you will find my current portfolio as a web developer using REACT. All of which will contain past, current, and future projects that I have built and are cotinuously being updated and improved since I started UW Coding Bootcamp in September 2020.
+Here you will find my current portfolio as a web developer using REACT. All of which will contain past, current, and future projects that I have built and are continuously being updated and improved since I started UW Coding Bootcamp in September 2020.
 
-This project will serve as the Portfolio I will be using for future job prospects, which will continuosly be edited, updated, and improved on as I continue to build on my coding skills throughout this program.
+This project will serve as the Portfolio I will be using for future job prospects, which will continuosly be edited, updated, and improved on as I continue to build on my coding skills throughout and post this program.
 
 
 ## Links
@@ -14,13 +14,13 @@ This project will serve as the Portfolio I will be using for future job prospect
 ## Content
 DEMO
 
-![HTML gif](./public/assets/images/portfolio.gif)
+![HTML gif](./public/assets/images/React-App-Portfolio.gif)
 
 
 
 ## Credits
 1. How to display pdf file using REACT - https://levelup.gitconnected.com/displaying-pdf-in-react-app-6e9d1fffa1a9
-
+1. How to add Bootstrap Carousel using REACT - https://dzone.com/articles/how-to-use-bootstrap-carousel-in-reactjs
 ## License
 MIT License
 
