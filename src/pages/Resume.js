@@ -1,6 +1,7 @@
 import { Document, Page } from "react-pdf"
 import Nav from "../components/Nav";
 import ResumePDF from "../documents/ResumePDF.pdf";
+import CardColumns from "react-bootstrap/CardColumns";
 
 function Resume() {
   return (
@@ -12,7 +13,10 @@ function Resume() {
         options={{ workerSrc: "/pdf.worker.js" }}
         >
           <Page pageNumber={1} />
+          <Page pageNumber={2} />
+
         </Document>
+
       </div>
     </>
   );
