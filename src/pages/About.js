@@ -14,7 +14,7 @@ function About() {
 
             <h1 className="title text-center fs-1">Research Coordinator & Full-Stack Web Developer</h1>
 
-            <p className="lh-sm text-center fs-6">Very dedicated, patient-focused laboratory technician with 16 years of expertise in DNA extractions, tumor acquisitions, data entry, result entry, customer and client service relations, & Healthcare IT. Who exemplifies accuracy in patient history, medical and clinical documentation, kit send outs, workload organization, research assistance and coordination, and system application building, web development, and maintenance.</p>
+            <p className="lh-sm text-center fs-6">Full Stack Web Developer with a B.S. degree in Medical Technology and a continuous drive for learning. Known among staff for going above and beyond with great attention to detail while continuously and successfully meeting deadlines. Graduate of the University of Washington’s Coding Bootcamp who is passionate about creating intuitive user experiences with a focus on mobile first design and development. Skilled in JavaScript, HTML, CSS, Express, Express Handlebars, MySQL, MongoDB, React.js, and Node.js.</p>
 
           </div>
         </div>
