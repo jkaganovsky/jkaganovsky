@@ -14,7 +14,7 @@ function Contact() {
               E-mail
             </a>
 
-            <a className="nav-link h5 text-center" href="https://www.linkedin.com/in/jailanie-kaganovsky-573a00116/">
+            <a className="nav-link h5 text-center" href="https://www.linkedin.com/in/jkaganovsky/">
               <span className="iconify" data-icon="mdi-linkedin" data-inline="false"></span>
               LinkedIn
             </a>
