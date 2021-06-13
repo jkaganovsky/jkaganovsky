@@ -11,7 +11,7 @@ function Main() {
 
         <div className="row">
           <div className="col-lg">
-            <h2 className="title text-center">Research Coordinator & Full-Stack Web Developer</h2>
+            <h2 className="title text-center">Full-Stack Web Developer & Research Coordinator</h2>
           </div>
         </div>
       </div>
