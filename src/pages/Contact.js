@@ -11,22 +11,22 @@ function Contact() {
 
             <a className="nav-link h5 text-center" href="mailto:jnctw33ty@gmail.com">
               <span className="iconify" data-icon="entypo:email" data-inline="false"></span>
-              E-mail
+              E-mail: jnctw33ty@gmail.com
             </a>
 
             <a className="nav-link h5 text-center" href="https://www.linkedin.com/in/jkaganovsky/">
               <span className="iconify" data-icon="mdi-linkedin" data-inline="false"></span>
-              LinkedIn
+              LinkedIn: https://www.linkedin.com/in/jkaganovsky/
             </a>
 
             <a className="nav-link h5 text-center" href="https://github.com/jkaganovsky">
               <span className="iconify" data-icon="entypo-social:github" data-inline="false"></span>
-              Github
+              Github: https://github.com/jkaganovsky
             </a>
 
             <a className="nav-link h5 text-center" href="resume">
               <span className="iconify" data-icon="zmdi:collection-pdf" data-inline="false"></span>
-              Resume
+              Resume: https://docs.google.com/document/d/1U63ko9pZ3dNeMCcuE7i5g2YfHOdJp4xmGFkPXX4xC2E/edit?usp=sharing
             </a>
         </div>
       </div>
