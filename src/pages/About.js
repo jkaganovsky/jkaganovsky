@@ -53,7 +53,7 @@ function About() {
               Bootstrap
               <img className="ml-2 p-2" src="https://img.icons8.com/color/50/000000/material-ui.png" alt="Material-UI Logo"/>
               Material-UI
-              <span class="iconify" data-icon="simple-icons:bulma" data-inline="false" data-width="40" data-height="40"></span>
+              <span className="iconify" data-icon="simple-icons:bulma" data-inline="false" data-width="40" data-height="40"></span>
               Bulma.io
             </Card.Text>
           </Card.Body>
