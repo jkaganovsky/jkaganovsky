@@ -7,6 +7,7 @@ function About() {
       <Nav />
       <CardColumns className="text-center m-4">
         <Image
+          className="border border-whitegi"
           width={300}
           height={200}
           src="/assets/images/selfportrait.jpg"
@@ -15,8 +16,11 @@ function About() {
         />
         <Card>
           <Card.Body>
-            <Card.Title>
-              FULL-STACK WEB DEVELOPER
+            <Card.Title className="title">
+              FULL-STACK WEB DEVELOPER &
+            </Card.Title>
+            <Card.Title className="title">
+              RESEARCH COORDINATOR
             </Card.Title>
             <Card.Text>
               Hello! My name is Jailanie Kaganovsky. I'm a recent Full Stack Web Developer certificate graduate with a B.S. degree in Medical Technology. I have worked in healthcare for over 18 years, and have always provided feedback on how a web application can be improved. I have often wondered if and how I may be able to do the improvements myself as I have always had been interested in coding, which is why I decided to become a Web Developer. I am known among staff for going above and beyond with great attention to detail while continuously and successfully meeting deadlines. Graduate of the University of Washington’s Coding Bootcamp, I am very passionate about creating intuitive user experiences with a focus on mobile first design and development.
@@ -25,7 +29,7 @@ function About() {
         </Card>
         <Card>
           <Card.Body>
-            <Card.Title>Skillsets</Card.Title>
+            <Card.Title className="skills">SKILLSETS</Card.Title>
             <Card.Text>
               <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="JavaScript Logo"/>
               JavaScript
