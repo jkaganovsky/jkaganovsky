@@ -31,7 +31,7 @@ function projects() {
         <Card.Img variant="top" src="/assets/images/coin-creatif.png" fluid/>
         <Card.Body>
           <Card.Text>
-            A marketplace for creative entrepreneurs promoting their unique, creative, and handcraft goods. It is an ecommerce platform supporting local artists/creators turning their ideas into successful businesses. Created using MERN, Firebase authentication, Material-UI, multer, and Axios.
+            A marketplace for creative entrepreneurs promoting their unique, creative, and handcraft goods. It is an ecommerce platform supporting local artists/creators turning their ideas into successful businesses. Created using MERN, Firebase authentication, Material-UI, multer, and Axios. Guest Login: username - guest@email.com, password - guest123
           </Card.Text>
           <Card.Link href="https://coincreatif.herokuapp.com/">Deployed Site</Card.Link>
           <Card.Link href="https://github.com/elizabethbrandt/coincreatif">GitHub Repository</Card.Link>
