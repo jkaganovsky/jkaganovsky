@@ -1,5 +1,5 @@
 import Nav from "../components/Nav";
-import { Card, Media } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 
 function Contact() {
   return(
